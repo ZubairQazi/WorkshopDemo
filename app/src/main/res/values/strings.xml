@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WorkshopDemo</string>
+    <string name="message_field">Enter a message</string>
+    <string name="send_btn">Send</string>
+    <string name="click_me_btn">Click Me!</string>
+    <string name="receive_field">Received Input</string>
+    <string name="add_btn">Add</string>
+    <string name="sub_btn">Sub</string>
+</resources>
