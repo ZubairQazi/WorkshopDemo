@@ -28,6 +28,7 @@
         android:layout_marginLeft="68dp"
         android:layout_marginBottom="230dp"
         android:text="@string/add_btn"
+        app:backgroundTint="#4CAF50"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
 
@@ -39,6 +40,7 @@
         android:layout_marginLeft="96dp"
         android:layout_marginBottom="230dp"
         android:text="@string/sub_btn"
+        app:backgroundTint="#03A9F4"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.015"
